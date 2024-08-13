@@ -17,6 +17,7 @@ it("Test Case 1", function(){
 
 it ("Test Case 2", function(){
 
+    Launch();
     cy.get('.search-keyword').type("Cucumber");
     cy.get('.search-button').click();
 })
