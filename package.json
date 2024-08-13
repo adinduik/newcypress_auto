@@ -1,0 +1,14 @@
+{
+  "name": "newcypress_auto",
+  "version": "1.0.0",
+  "description": "This is a test repository for Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
